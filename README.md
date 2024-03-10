@@ -206,12 +206,3 @@ game:GetService('RunService').RenderStepped:connect(function()
 	end)
 end)
 
-ff:Label("38 Speed")
-ff:Button("Press", function()
-
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 38
-
-ff:Label("56 speed")
-ff:Button("Press", function()
-
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 56
