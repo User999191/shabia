@@ -1,5 +1,5 @@
 local Luxtl = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Luxware-UI-Library/main/Source.lua"))() 
-  
+   
 local Luxt = Luxtl.CreateWindow("Celex", 6105620301)    
 
 local Examples = Luxt:Tab("AimBot") 
