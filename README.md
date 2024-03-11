@@ -216,5 +216,3 @@ ff:Button("100", function()
 game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100
 end)
 
-local Examples = Luxt:Tab("Settings & Esp") 
-local ff = Examples:Section("Esp And Speed")
