@@ -243,9 +243,4 @@ game:GetService('RunService').RenderStepped:connect(function()
 	end)
 end)
 
-ff:Label("Auto Pred CamLock")
-ff:Button("Press", function()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/User999191/Lockin/main/README.md"))()
-
-                    
